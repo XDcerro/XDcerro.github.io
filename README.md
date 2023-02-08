@@ -1,6 +1,6 @@
 
 <html>
-<a href="https://www.youtube.com">
+<a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ">
 <input style="height: 60px; width: 120px;" type="reset" value="Jetzt Kaufen"/>
 </a>
 <title>
