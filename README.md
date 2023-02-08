@@ -1,4 +1,4 @@
-<!doctype html>
+
 <html>
 <a href="https://www.youtube.com">
 <input style="height: 60px; width: 120px;" type="reset" value="Jetzt Kaufen"/>
@@ -22,13 +22,13 @@ border: none;
 font-size:18px;
 position: relative;
 top: 45em;
-left: 48em;
+left: 30em;
 }
 input {border-radius: 12px;}
 img {
 position: relative;
 top: 2em;
-left: 700px;
+left: 350px;
 </style>
 <head>
 <font size="6"><center><h1>Der Unbekannter Autor</h1></center></font>
