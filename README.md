@@ -22,13 +22,13 @@ border: none;
 font-size:18px;
 position: relative;
 top: 45em;
-left: 30em;
+left: 26em;
 }
 input {border-radius: 12px;}
 img {
 position: relative;
 top: 2em;
-left: 350px;
+left: 330px;
 </style>
 <head>
 <font size="6"><center><h1>Der Unbekannter Autor</h1></center></font>
