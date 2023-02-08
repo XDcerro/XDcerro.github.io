@@ -28,7 +28,7 @@ input {border-radius: 12px;}
 img {
 position: relative;
 top: 2em;
-left: 290px;
+left: 270px;
 </style>
 <head>
 <font size="6"><center><h1>Der Unbekannter Autor</h1></center></font>
